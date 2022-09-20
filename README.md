@@ -8,3 +8,7 @@ area = length * width
 
 ## Area of a triangle
 area = 0.5 * base * height
+
+## Miles per gallon
+mpg = distanceInMiles / gasInGallons
+
